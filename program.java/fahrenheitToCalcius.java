@@ -1,5 +1,5 @@
 
-// fahrenheit to calcius convwrsion
+// fahrenheit to calcius conversion
 public class fahrenheitToCalcius {
     public static void main(String[] args){
         double fahrenheit = 45;
