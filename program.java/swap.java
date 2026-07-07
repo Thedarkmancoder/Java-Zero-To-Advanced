@@ -1,0 +1,14 @@
+
+// swap two variable without a third variable
+
+public class swap {
+    public static void main(String[] args){
+        int a = 10;
+        int b = 30;
+        a = a+b;
+        b = a-b;
+        a = a-b;
+        System.out.println("a = " + a +" , b = " + b);
+    }
+}
+//Output a = 30 , b = 10
