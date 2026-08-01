@@ -15,3 +15,4 @@ public class ProbState1{
     System.out.println(" Country Capitals : " + capitals);
  }   
 }
+// output:- Country Capitals : {Canada=Ottawa, USA=Washington , D.C, Japan=Tokyo, Brazil=Brasilia, France=Paris, Germany=Berlin, India=Delhi}

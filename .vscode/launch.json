@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ProbState2",
+            "request": "launch",
+            "mainClass": "ProbState2",
+            "projectName": "JAVA Zero To Advance_cd42de30"
+        },
+        {
+            "type": "java",
             "name": "ProbState1",
             "request": "launch",
             "mainClass": "ProbState1",
