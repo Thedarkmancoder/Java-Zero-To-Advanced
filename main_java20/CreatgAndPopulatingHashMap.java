@@ -2,7 +2,7 @@
 // Hint:- Use put(key , value) to add entries.
 
 import java.util.HashMap;
-public class ProbState1{
+public class CreatgAndPopulatingHashMap{
  public static void main(String[] args){
     HashMap<String, String>capitals = new HashMap<>();
     capitals.put("India", "Delhi");

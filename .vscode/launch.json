@@ -6,6 +6,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "GetgTheSizeAndClrgMap",
+            "request": "launch",
+            "mainClass": "GetgTheSizeAndClrgMap",
+            "projectName": "JAVA Zero To Advance_cd42de30"
+        },
+        {
+            "type": "java",
+            "name": "IteratingOverEntries",
+            "request": "launch",
+            "mainClass": "IteratingOverEntries",
+            "projectName": "JAVA Zero To Advance_cd42de30"
+        },
+        {
+            "type": "java",
+            "name": "IteratingOverKsys",
+            "request": "launch",
+            "mainClass": "IteratingOverKsys",
+            "projectName": "JAVA Zero To Advance_cd42de30"
+        },
+        {
+            "type": "java",
+            "name": "checkingForKeyAndValue",
+            "request": "launch",
+            "mainClass": "checkingForKeyAndValue",
+            "projectName": "JAVA Zero To Advance_cd42de30"
+        },
+        {
+            "type": "java",
+            "name": "UpdatingAValue",
+            "request": "launch",
+            "mainClass": "UpdatingAValue",
+            "projectName": "JAVA Zero To Advance_cd42de30"
+        },
+        {
+            "type": "java",
+            "name": "RemovingAnEntry",
+            "request": "launch",
+            "mainClass": "RemovingAnEntry",
+            "projectName": "JAVA Zero To Advance_cd42de30"
+        },
+        {
+            "type": "java",
+            "name": "ProbState4",
+            "request": "launch",
+            "mainClass": "ProbState4",
+            "projectName": "JAVA Zero To Advance_cd42de30"
+        },
+        {
+            "type": "java",
+            "name": "ProbState3",
+            "request": "launch",
+            "mainClass": "ProbState3",
+            "projectName": "JAVA Zero To Advance_cd42de30"
+        },
+        {
+            "type": "java",
             "name": "ProbState2",
             "request": "launch",
             "mainClass": "ProbState2",

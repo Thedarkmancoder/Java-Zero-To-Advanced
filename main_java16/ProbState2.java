@@ -4,7 +4,7 @@ import java.util.ArrayList;
 //Problem Statement:- Create an ArrayList of Intergers and remove the element of Index.
 //Hint:- Use remove(index) to delete an elements the list will re-index automatically.
 
-public class ProbState2 {
+public class ProbState2{
   public static void main(String[] args){
     ArrayList<Integer>numbers = new ArrayList<>();
     numbers.add(20);

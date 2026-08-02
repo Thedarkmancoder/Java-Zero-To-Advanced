@@ -3,8 +3,8 @@ import java.util.ArrayList;
 
 // Problem Statement:- Create an Arraylist of Characters and print the element at index 2.
 // Hint:- Use get(index) to retrieve an element by its.
-
-public class ProbState3 {
+ 
+public class ProbState3{
     public static void main(String[] args){
         ArrayList<Character>letters = new ArrayList<>();
         letters.add('A');

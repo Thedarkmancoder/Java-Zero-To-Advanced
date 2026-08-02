@@ -2,7 +2,7 @@
 // Hint:- Use get(key) to acess the value.
 
 import java.util.HashMap;
-public class ProbState2 {
+public class RetrivingaValueByKey {
     public static void main(String[] args) {
         // Hint: Retrive the capital using get(key)
 
