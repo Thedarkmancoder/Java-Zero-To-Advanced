@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Stack_Example3",
+            "request": "launch",
+            "mainClass": "main_java22.Stack_Example3",
+            "projectName": "JAVA Zero To Advance_cd42de30"
+        },
+        {
+            "type": "java",
             "name": "Stack_Example2",
             "request": "launch",
             "mainClass": "main_java22.Stack_Example2",
