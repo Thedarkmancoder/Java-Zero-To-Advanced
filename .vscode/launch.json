@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Queue_Example6",
+            "request": "launch",
+            "mainClass": "main_java23.Queue_Example6",
+            "projectName": "JAVA Zero To Advance_cd42de30"
+        },
+        {
+            "type": "java",
             "name": "StudentName_Example5",
             "request": "launch",
             "mainClass": "main_java23.StudentName_Example5",

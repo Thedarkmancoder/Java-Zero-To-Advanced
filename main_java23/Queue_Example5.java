@@ -4,7 +4,7 @@
 package main_java23;
 import java.util.Queue;
 import java.util.LinkedList;
-public class StudentName_Example5 {
+public class Queue_Example5 {
     public static void main(String[] args){
         Queue<String>StudentName = new LinkedList<>();
         StudentName.offer("Nitish");
