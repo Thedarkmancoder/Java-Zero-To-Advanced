@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LoonyCounter",
+            "request": "launch",
+            "mainClass": "main_java24.LoonyCounter",
+            "projectName": "JAVA Zero To Advance_cd42de30"
+        },
+        {
+            "type": "java",
             "name": "CrazyStudent",
             "request": "launch",
             "mainClass": "main_java24.CrazyStudent",
