@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CrazyStudent",
+            "request": "launch",
+            "mainClass": "main_java24.CrazyStudent",
+            "projectName": "JAVA Zero To Advance_cd42de30"
+        },
+        {
+            "type": "java",
             "name": "WackyVehicle",
             "request": "launch",
             "mainClass": "main_java24.WackyVehicle",
