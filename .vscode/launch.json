@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SillyCalculator",
+            "request": "launch",
+            "mainClass": "main_java24.SillyCalculator",
+            "projectName": "JAVA Zero To Advance_cd42de30"
+        },
+        {
+            "type": "java",
             "name": "Book",
             "request": "launch",
             "mainClass": "main_java24.Book",
