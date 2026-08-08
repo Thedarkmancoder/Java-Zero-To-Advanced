@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Student",
+            "request": "launch",
+            "mainClass": "Student",
+            "projectName": "JAVA Zero To Advance_cd42de30"
+        },
+        {
+            "type": "java",
             "name": "Constructor_Example1",
             "request": "launch",
             "mainClass": "Constructor_Example1",
