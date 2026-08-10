@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Mainn",
+            "request": "launch",
+            "mainClass": "main_java26.Mainn",
+            "projectName": "JAVA Zero To Advance_cd42de30"
+        },
+        {
+            "type": "java",
             "name": "Main",
             "request": "launch",
             "mainClass": "main_java26.Main",
