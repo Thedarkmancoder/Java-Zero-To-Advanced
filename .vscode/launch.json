@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "AnimalSound",
+            "request": "launch",
+            "mainClass": "main_java27.AnimalSound",
+            "projectName": "JAVA Zero To Advance_cd42de30"
+        },
+        {
+            "type": "java",
             "name": "FieldHidingAndSuperField",
             "request": "launch",
             "mainClass": "main_java26.FieldHidingAndSuperField",
