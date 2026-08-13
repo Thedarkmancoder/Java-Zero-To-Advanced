@@ -1,4 +1,4 @@
-package main_java30;
+package projectFolder;
 
 public class CalculatorApp {
     
