@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "DigitOnlyStringCheck",
+            "request": "launch",
+            "mainClass": "main_java30.DigitOnlyStringCheck",
+            "projectName": "JAVA Zero To Advance_cd42de30"
+        },
+        {
+            "type": "java",
             "name": "Example2",
             "request": "launch",
             "mainClass": "main_java27.Example2",
