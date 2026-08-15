@@ -6,6 +6,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "OpticalCharacter",
+            "request": "launch",
+            "mainClass": "main_java31.OpticalCharacter",
+            "projectName": "JAVA Zero To Advance_cd42de30"
+        },
+        {
+            "type": "java",
+            "name": "AlphabetOnlyValidation",
+            "request": "launch",
+            "mainClass": "main_java30.AlphabetOnlyValidation",
+            "projectName": "JAVA Zero To Advance_cd42de30"
+        },
+        {
+            "type": "java",
+            "name": "AlphaNumericCheck",
+            "request": "launch",
+            "mainClass": "main_java30.AlphaNumericCheck",
+            "projectName": "JAVA Zero To Advance_cd42de30"
+        },
+        {
+            "type": "java",
+            "name": "DetectWhiteSpace",
+            "request": "launch",
+            "mainClass": "main_java30.DetectWhiteSpace",
+            "projectName": "JAVA Zero To Advance_cd42de30"
+        },
+        {
+            "type": "java",
+            "name": "ExtractDigitSequences",
+            "request": "launch",
+            "mainClass": "main_java30.ExtractDigitSequences",
+            "projectName": "JAVA Zero To Advance_cd42de30"
+        },
+        {
+            "type": "java",
+            "name": "CharacterClassMatching",
+            "request": "launch",
+            "mainClass": "main_java31.CharacterClassMatching",
+            "projectName": "JAVA Zero To Advance_cd42de30"
+        },
+        {
+            "type": "java",
+            "name": "WordBoundaryDetection",
+            "request": "launch",
+            "mainClass": "main_java31.WordBoundaryDetection",
+            "projectName": "JAVA Zero To Advance_cd42de30"
+        },
+        {
+            "type": "java",
             "name": "DigitOnlyStringCheck",
             "request": "launch",
             "mainClass": "main_java30.DigitOnlyStringCheck",

@@ -16,3 +16,18 @@ public class DigitOnlyStringCheck {
     System.out.println(isDigitsOnly);
     }
 }
+// Ouptput:- true
+//Explanation:-
+// Pattern.compile("^\d+$");
+// ^ asserts start, 
+// \d+ matches one or more digits,
+// $ asserts end.
+
+// P.matcher(s);
+// binds the pattern to input "2025".
+
+// m.matcher();
+// checks full-string match.
+
+// Output:-
+// prints true because "2025" is all digits.
